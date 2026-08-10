@@ -222,16 +222,6 @@ That is **disciplined vibe coding**: AI provides speed and implementation levera
 
 DevPilot is intended to be licensed under the **Apache License 2.0**, a permissive open-source license that allows use, modification, distribution and commercial use while preserving required license and attribution notices.
 
-When distributing modified versions, comply with the Apache License 2.0 requirements, including providing prominent notice of modified files where required and preserving applicable copyright, attribution and `NOTICE` information.
-
-**DevPilot attribution:**
-
-```text
-DevPilot
-Copyright 2026
-Original project: https://github.com/Avids/DevPilot
-```
-
 If you build on DevPilot, attribution to the original DevPilot project is appreciated and should be preserved wherever required by the license and accompanying notices.
 
 > **Important:** This README describes the intended license, but the repository should also contain the full `LICENSE` file and, where used, a `NOTICE` file. Those files control the actual licensing terms; this README is not a substitute for them.
