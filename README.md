@@ -228,7 +228,7 @@ When distributing modified versions, comply with the Apache License 2.0 requirem
 
 ```text
 DevPilot
-Copyright 2026 Sina
+Copyright 2026
 Original project: https://github.com/Avids/DevPilot
 ```
 
