@@ -1,0 +1,1 @@
+Use the AI software development workflow. Investigate before editing. Reproduce or understand the bug, find the root cause, identify affected areas and regression risks, and prefer the smallest safe fix using existing project patterns. Then implement, run relevant tests/checks, review the change, and document any important decision.
