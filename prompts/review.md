@@ -1,0 +1,1 @@
+Review this implementation independently against the approved spec and architecture. Do not edit first. Check correctness, regressions, security, permissions, data/API compatibility, edge cases, unnecessary complexity, duplication, dependency quality, and test coverage. Report findings by severity, then fix approved/material issues and re-run verification.
